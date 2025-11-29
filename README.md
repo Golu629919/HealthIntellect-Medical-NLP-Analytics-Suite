@@ -4,13 +4,14 @@ HealthIntellect is an AI-driven Medical NLP analytics suite designed to extract,
 It transforms raw medical text into structured insights, helping in faster diagnosis, clinical decision support, and healthcare data intelligence.
 
 🚀 Key Features
+
 ✔ Medical Text Processing
 
 Extracts symptoms, diseases, medicines, and tests from clinical notes.
 
 Handles prescriptions, EMR records, reports, and health documents.
 
-✔ Advanced NLP Pipelines
+✔ Advanced NLP Pipeline
 
 Named Entity Recognition (NER)
 
