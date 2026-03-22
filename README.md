@@ -135,7 +135,7 @@ streamlit run src/dashboard/app.py
 🤝 Contributions
 
 Contributions are welcome!
-Feel free to submit issues or pull requests.
+Feel free to submit issues or pull requests.if you are facing any difficulties regarding this kindly pull request to me.
 
 📜 License
 
